@@ -34,7 +34,7 @@ You need to have **Node.js** and **npm** (or **yarn** / **pnpm**) installed on y
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/momentum.git](https://github.com/YourUsername/momentum.git)
+    git clone https://github.com/nileshyadavme/momentum.git
     cd momentum
     ```
 2.  **Install Dependencies:**
